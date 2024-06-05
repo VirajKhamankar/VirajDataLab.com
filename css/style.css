@@ -12766,3 +12766,8 @@ textarea.form-control {
 .z10 {
   z-index: 10;
 }
+
+.hero-image {
+  height: 50% !important;
+  align-self: center;
+}
